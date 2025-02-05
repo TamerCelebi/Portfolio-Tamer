@@ -1,0 +1,188 @@
+{
+  "en": {
+    "name": "Tamer",
+    "heroSection": {
+      "greeting": "Hi! 👋🏻",
+      "intro": "I'm Tamer. I am a full-stack developer. I can craft solid and scalable frontend products. Let's meet!",
+      "profileImage": "Avatar1.webp",
+      "socials": [
+        {
+          "altText": "Linkedin",
+          "link": "www.linkedin.com"
+        },
+        {
+          "altText": "Github",
+          "link": "www.github.com"
+        },
+        {
+          "altText": "Github",
+          "link": "www.youtube.com"
+        }
+      ],
+      "ctaHTML": "Currently looking for a job as a <strong>Full-Stack developer</strong>"
+    },
+    "skillsSection": {
+      "title": "Skills",
+      "skills": [
+        {
+          "logo": "HTML",
+          "link": "HTML"
+        },
+        {
+          "logo": "CSS",
+          "link": "CSS"
+        },
+        {
+          "logo": "Javascript",
+          "link": "JavaScript"
+        },
+        {
+          "logo": "React",
+          "link": "ReactDark"
+        },
+        {
+          "logo": "Redux",
+          "link": "Redux"
+        },
+        {
+          "logo": "VSCode",
+          "link": "VSCode"
+        },
+        {
+          "logo": "Figma",
+          "link": "Figma"
+        },
+        {
+          "logo": "Discord",
+          "link": "Discord"
+        }
+      ]
+    },
+    "profile": {
+      "information": {
+        "birthday": "15/08/1997",
+        "location": "Istanbul",
+        "education": "Trakya University-Food Engineering",
+        "role": "Full-stack"
+      },
+      "aboutme": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur illo error cum ratione, dolorem veritatis dolore. Cupiditate earum rem delectus quam reprehenderit eaque, sequi itaque ab pariatur nulla eligendi illu  In nostrum maxime quisquam nulla sequi corporis dolore? Voluptatum hic deleniti, rerum cum magni animi quo aspernatur fugiat amet quas delectus in magnam vitae expedita veritatis ex impedit nesciunt inventore.  Illum quibusdam magni neque quo nam odio, eius, velit tempore omnis voluptate reiciendis culpa minima laboriosam est voluptatem? Impedit sit dignissimos quas soluta doloribus, ipsum aut ex nulla consectetur voluptas."
+    },
+    "projects": {
+      "left": {
+        "title": "Exchange",
+        "desc": "Aliquid harum dignissimos expedita ducimus fugiat blanditiis ad autem? Labore excepturi voluptatibus, odio corporis itaque, exercitationem corrupti aliquid explicabo delectus, reprehenderit perspiciatis.",
+        "tags": ["react", "axios", "scss", "vercel"],
+        "url": "www.github.com",
+        "visit": "www.google.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHKeMJgPwC3wFpSD1ZgaHGHGcesFnaPODog&s"
+      },
+      "right": {
+        "title": "Tic-Tac-Toe",
+        "desc": "Aliquid harum dignissimos expedita ducimus fugiat blanditiis ad autem? Labore excepturi voluptatibus, odio corporis itaque, exercitationem corrupti aliquid explicabo delectus, reprehenderit perspiciatis.",
+        "tags": ["react", "axios", "scss", "vercel"],
+        "url": "www.github.com",
+        "visit": "www.google.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHKeMJgPwC3wFpSD1ZgaHGHGcesFnaPODog&s"
+      }
+    },
+    "contact": {
+      "github": "www.github.com",
+      "linkedin": "www.linkedin.com",
+      "email": "sevimlikurtsinem@gmail.com",
+      "personalBlog": "www.instagram.com"
+    }
+  },
+  "tr": {
+    "name": "Tamer",
+    "heroSection": {
+      "greeting": "Merhaba! 👋🏻",
+      "intro": "Ben Tamer. Full-stack geliştiriciyim. Sağlam ve ölçeklenebilir ön yüz ürünleri geliştirebilirim. Tanışalım!",
+      "profileImage": "Avatar1.webp",
+      "socials": [
+        {
+          "altText": "LinkedIn",
+          "link": "www.linkedin.com"
+        },
+        {
+          "altText": "Github",
+          "link": "www.github.com"
+        },
+        {
+          "altText": "Youtube",
+          "link": "www.youtube.com"
+        }
+      ],
+      "ctaHTML": "Şu anda <strong>Front-end geliştirici</strong> olarak iş arıyorum."
+    },
+    "skillsSection": {
+      "title": "Beceriler",
+      "skills": [
+        {
+          "logo": "HTML",
+          "link": "HTML"
+        },
+        {
+          "logo": "CSS",
+          "link": "CSS"
+        },
+        {
+          "logo": "Javascript",
+          "link": "JavaScript"
+        },
+        {
+          "logo": "React",
+          "link": "ReactDark"
+        },
+        {
+          "logo": "Redux",
+          "link": "Redux"
+        },
+        {
+          "logo": "VSCode",
+          "link": "VSCode"
+        },
+        {
+          "logo": "Figma",
+          "link": "Figma"
+        },
+        {
+          "logo": "Discord",
+          "link": "Discord"
+        }
+      ]
+    },
+    "profile": {
+      "information": {
+        "birthday": "15/08/1997",
+        "location": "İstanbul",
+        "education": "Trakya Üniversitesi - Gıda Mühendisliği",
+        "role": "Full-stack"
+      },
+      "aboutme": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur illo error cum ratione, dolorem veritatis dolore. Cupiditate earum rem delectus quam reprehenderit eaque, sequi itaque ab pariatur nulla eligendi illo. In nostrum maxime quisquam nulla sequi corporis dolore? Voluptatum hic deleniti, rerum cum magni animi quo aspernatur fugiat amet quas delectus in magnam vitae expedita veritatis ex impedit nesciunt inventore. Illum quibusdam magni neque quo nam odio, eius, velit tempore omnis voluptate reiciendis culpa minima laboriosam est voluptatem? Impedit sit dignissimos quas soluta doloribus, ipsum aut ex nulla consectetur voluptas."
+    },
+    "projects": {
+      "left": {
+        "title": "Exchange",
+        "desc": "Aliquid harum dignissimos expedita ducimus fugiat blanditiis ad autem? Labore excepturi voluptatibus, odio corporis itaque, exercitationem corrupti aliquid explicabo delectus, reprehenderit perspiciatis.",
+        "tags": ["react", "axios", "scss", "vercel"],
+        "url": "www.github.com",
+        "visit": "www.google.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHKeMJgPwC3wFpSD1ZgaHGHGcesFnaPODog&s"
+      },
+      "right": {
+        "title": "Tic-Tac-Toe",
+        "desc": "Aliquid harum dignissimos expedita ducimus fugiat blanditiis ad autem? Labore excepturi voluptatibus, odio corporis itaque, exercitationem corrupti aliquid explicabo delectus, reprehenderit perspiciatis.",
+        "tags": ["react", "axios", "scss", "vercel"],
+        "url": "www.github.com",
+        "visit": "www.google.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHKeMJgPwC3wFpSD1ZgaHGHGcesFnaPODog&s"
+      }
+    },
+    "contact": {
+      "github": "www.github.com",
+      "linkedin": "www.linkedin.com",
+      "email": "sevimlikurtsinem@gmail.com",
+      "personalBlog": "www.instagram.com"
+    }
+  }
+}
