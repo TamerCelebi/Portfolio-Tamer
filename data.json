@@ -4,11 +4,15 @@
     "heroSection": {
       "greeting": "Hi! 👋🏻",
       "intro": "I'm Tamer. I am a full-stack developer. I can craft solid and scalable frontend products. Let's meet!",
-      "profileImage": "Avatar1.webp",
+      "profileImage": "einstein.jpg",
       "socials": [
         {
           "altText": "Linkedin",
           "link": "www.linkedin.com"
+        },
+        {
+          "altText": "face",
+          "link": "www.facebook.com"
         },
         {
           "altText": "Github",
@@ -19,7 +23,7 @@
           "link": "www.youtube.com"
         }
       ],
-      "ctaHTML": "Currently looking for a job as a <strong>Front-end developer</strong>"
+      "ctaHTML": "Currently looking for a job as a <strong>Full-stack developer</strong>"
     },
     "skillsSection": {
       "title": "Skills",
@@ -117,6 +121,10 @@
         {
           "altText": "LinkedIn",
           "link": "www.linkedin.com"
+        },
+        {
+          "altText": "instagram",
+          "link": "www.instagram.com"
         },
         {
           "altText": "Github",

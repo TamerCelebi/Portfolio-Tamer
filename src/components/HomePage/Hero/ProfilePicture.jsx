@@ -1,7 +1,12 @@
 import React from "react";
 
-function ProfilePicture() {
-  return <div></div>;
+function ProfilePicture({ user }) {
+  return (
+    <img
+      src={`/assets/${user.heroSection.profileImage} `}
+      className="size-[144px] object-cover"
+    />
+  );
 }
 
 export default ProfilePicture;
