@@ -20,6 +20,7 @@ function Theme() {
           checked={theme === "dark"}
           onChange={toggleTheme}
         />
+
         <span
           className="absolute cursor-pointer top-0 left-0 right-0 bottom-0 bg-[rgba(233,37,119,1)] transition-all duration-400 ease-in-out peer-checked:bg-[rgba(233,37,119,1)] rounded-full"
           aria-hidden="true"
