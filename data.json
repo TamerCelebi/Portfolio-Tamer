@@ -19,53 +19,68 @@
           "link": "www.youtube.com"
         }
       ],
-      "ctaHTML": "Currently looking for a job as a <strong>Full-Stack developer</strong>"
+      "ctaHTML": "Currently looking for a job as a <strong>Front-end developer</strong>"
     },
     "skillsSection": {
       "title": "Skills",
       "skills": [
         {
           "logo": "HTML",
-          "link": "HTML"
+          "name": "HTML"
         },
         {
           "logo": "CSS",
-          "link": "CSS"
+          "name": "CSS"
         },
         {
           "logo": "Javascript",
-          "link": "JavaScript"
+          "name": "JavaScript"
         },
         {
           "logo": "React",
-          "link": "ReactDark"
+          "name": "React"
         },
         {
           "logo": "Redux",
-          "link": "Redux"
+          "name": "Redux"
         },
         {
           "logo": "VSCode",
-          "link": "VSCode"
+          "name": "VSCode"
         },
         {
           "logo": "Figma",
-          "link": "Figma"
+          "name": "Figma"
         },
         {
           "logo": "Discord",
-          "link": "Discord"
+          "name": "Discord"
         }
       ]
     },
     "profile": {
-      "information": {
-        "birthday": "15/08/1997",
-        "location": "Istanbul",
-        "education": "Trakya University-Food Engineering",
-        "role": "Full-stack"
+      "basicInformation": {
+        "title": "Profile",
+        "content": [
+          {
+            "question": "Birthday",
+            "answer": "15/08/1997"
+          },
+          {
+            "question": "Location",
+            "answer": "Istanbul"
+          },
+          {
+            "question": "Education",
+            "answer": "Trakya University - Food Engineering"
+          },
+          {
+            "question": "Role",
+            "answer": "Full-stack"
+          }
+        ]
       },
-      "aboutme": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur illo error cum ratione, dolorem veritatis dolore. Cupiditate earum rem delectus quam reprehenderit eaque, sequi itaque ab pariatur nulla eligendi illu  In nostrum maxime quisquam nulla sequi corporis dolore? Voluptatum hic deleniti, rerum cum magni animi quo aspernatur fugiat amet quas delectus in magnam vitae expedita veritatis ex impedit nesciunt inventore.  Illum quibusdam magni neque quo nam odio, eius, velit tempore omnis voluptate reiciendis culpa minima laboriosam est voluptatem? Impedit sit dignissimos quas soluta doloribus, ipsum aut ex nulla consectetur voluptas."
+      "aboutme": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur illo error cum ratione, dolorem veritatis dolore. Cupiditate earum rem delectus quam reprehenderit eaque, sequi itaque ab pariatur nulla eligendi illo. In nostrum maxime quisquam nulla sequi corporis dolore? Voluptatum hic deleniti, rerum cum magni animi quo aspernatur fugiat amet quas delectus in magnam vitae expedita veritatis ex impedit nesciunt inventore. Illum quibusdam magni neque quo nam odio, eius, velit tempore omnis voluptate reiciendis culpa minima laboriosam est voluptatem? Impedit sit dignissimos quas soluta doloribus, ipsum aut ex nulla consectetur voluptas."
     },
     "projects": {
       "left": {
@@ -93,7 +108,7 @@
     }
   },
   "tr": {
-    "name": "Tamer",
+    "name": "Ata",
     "heroSection": {
       "greeting": "Merhaba! 👋🏻",
       "intro": "Ben Tamer. Full-stack geliştiriciyim. Sağlam ve ölçeklenebilir ön yüz ürünleri geliştirebilirim. Tanışalım!",
@@ -119,44 +134,59 @@
       "skills": [
         {
           "logo": "HTML",
-          "link": "HTML"
+          "name": "HTML"
         },
         {
           "logo": "CSS",
-          "link": "CSS"
+          "name": "CSS"
         },
         {
           "logo": "Javascript",
-          "link": "JavaScript"
+          "name": "JavaScript"
         },
         {
           "logo": "React",
-          "link": "ReactDark"
+          "name": "ReactDark"
         },
         {
           "logo": "Redux",
-          "link": "Redux"
+          "name": "Redux"
         },
         {
           "logo": "VSCode",
-          "link": "VSCode"
+          "name": "VSCode"
         },
         {
           "logo": "Figma",
-          "link": "Figma"
+          "name": "Figma"
         },
         {
           "logo": "Discord",
-          "link": "Discord"
+          "name": "Discord"
         }
       ]
     },
     "profile": {
-      "information": {
-        "birthday": "15/08/1997",
-        "location": "İstanbul",
-        "education": "Trakya Üniversitesi - Gıda Mühendisliği",
-        "role": "Full-stack"
+      "basicInformation": {
+        "title": "Profile",
+        "content": [
+          {
+            "question": "Doğum Günü",
+            "answer": "24/03/1996"
+          },
+          {
+            "question": "İkamet Şehri",
+            "answer": "Ankara"
+          },
+          {
+            "question": "Eğitim Durumu",
+            "answer": "Hacettepe Ünv. Biyoloji Lisans, 2016"
+          },
+          {
+            "question": "Tercih Edilen Rol",
+            "answer": "Frontend, UI"
+          }
+        ]
       },
       "aboutme": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur illo error cum ratione, dolorem veritatis dolore. Cupiditate earum rem delectus quam reprehenderit eaque, sequi itaque ab pariatur nulla eligendi illo. In nostrum maxime quisquam nulla sequi corporis dolore? Voluptatum hic deleniti, rerum cum magni animi quo aspernatur fugiat amet quas delectus in magnam vitae expedita veritatis ex impedit nesciunt inventore. Illum quibusdam magni neque quo nam odio, eius, velit tempore omnis voluptate reiciendis culpa minima laboriosam est voluptatem? Impedit sit dignissimos quas soluta doloribus, ipsum aut ex nulla consectetur voluptas."
     },
