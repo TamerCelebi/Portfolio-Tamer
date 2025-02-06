@@ -49,10 +49,6 @@
           "name": "Redux"
         },
         {
-          "logo": "VSCode",
-          "name": "VSCode"
-        },
-        {
           "logo": "Figma",
           "name": "Figma"
         },
@@ -116,7 +112,7 @@
     "heroSection": {
       "greeting": "Merhaba! 👋🏻",
       "intro": "Ben Tamer. Full-stack geliştiriciyim. Sağlam ve ölçeklenebilir ön yüz ürünleri geliştirebilirim. Tanışalım!",
-      "profileImage": "Avatar1.webp",
+      "profileImage": "einstein.jpg",
       "socials": [
         {
           "altText": "LinkedIn",
@@ -160,10 +156,7 @@
           "logo": "Redux",
           "name": "Redux"
         },
-        {
-          "logo": "VSCode",
-          "name": "VSCode"
-        },
+
         {
           "logo": "Figma",
           "name": "Figma"
@@ -176,7 +169,7 @@
     },
     "profile": {
       "basicInformation": {
-        "title": "Profile",
+        "title": "Profil",
         "content": [
           {
             "question": "Doğum Günü",

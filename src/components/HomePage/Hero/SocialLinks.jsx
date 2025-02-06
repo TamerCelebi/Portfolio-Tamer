@@ -3,9 +3,9 @@ import SocialLink from "./SocialLink";
 
 function SocialLinks({ hero }) {
   return (
-    <div>
+    <div className="flex flex-col items-center mt-6 ">
       <nav>
-        <ul>
+        <ul className="flex flex-row justify-center gap-4">
           {hero.socials.map((social, index) => (
             <SocialLink social={social} key={index} />
           ))}
